@@ -18,16 +18,6 @@ This project is about programming a function that returns a line read from a fil
 
 This project will not only allow you to add a very convenient function to your collection, but it will also make you learn a highly interesting new concept in C programming: static variables.
 
-## Common Instructions
-
-- Your project must be written in C.
-- Your project must be written in accordance with the Norm.
-- Your functions should not quit unexpectedly, apart from undefined behaviors.
-- All heap allocated memory space must be properly freed when necessary.
-- If the subject requires it, you must submit a Makefile.
-- Your Makefile must at least contain the rules `$(NAME)`, `all`, `clean`, `fclean`, and `re`.
-- Submit your work to your assigned git repository.
-
 ## Mandatory Part
 
 Function name: `get_next_line`
