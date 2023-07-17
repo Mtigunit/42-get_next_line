@@ -9,7 +9,6 @@ This project is about programming a function that returns a line read from a fil
 ## Contents
 
 - [Goals](#goals)
-- [Common Instructions](#common-instructions)
 - [Mandatory Part](#mandatory-part)
 - [Bonus Part](#bonus-part)
 - [Submission and Peer-Evaluation](#submission-and-peer-evaluation)
